@@ -37,6 +37,7 @@ fp-info-cache
 **/*-backups/*.zip
 
 # Local project settings
+
 *.kicad_prl
 
 *.gbr
@@ -44,3 +45,6 @@ fp-info-cache
 *.drl
 
 *.gbrjob
+
+*.kicad_prl
+
